@@ -1,9 +1,7 @@
 ### Hi there! I'm Asfar 😍 👋
 
-<!--
-**MohamedAsfar/MohamedAsfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🏰 I’m currently pursuing my Masters in Engineering Management from San Jose State University, California (Expected Graduation : May 2021)
 - 🌱 I’m currentlyI am currently looking for a job opportunity in the field of Data Analytics and Business Intelligence
@@ -13,5 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [asfar.datascience@gmail.com](asfar.datascience@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
--->
+
