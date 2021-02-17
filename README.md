@@ -7,4 +7,4 @@
 - 📫 Reach me out at [asfar.datascience@gmail.com](mailto:asfar.datascience@gmail.com)
 - 😄 Interest: Photography, Manchester United 🔥, Meme Creator
 - ⚡ Fun fact:  I love to travel the world
-- 😛 Life Lesson: Read the quotes on my Profile pic 😆 "Declare variables, not WAR" #Peace 🐤
+- 😛 Life Lesso: Read the quotes on my Profile pic 😆 "Declare variables, not WAR" #Peace 🐤
